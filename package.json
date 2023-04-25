@@ -1,0 +1,29 @@
+{
+  "name": "@giovanirubim/celnav",
+  "version": "1.0.0",
+  "description": "Corrections for celestial navigation calculations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanirubim/npm-celnav.git"
+  },
+  "keywords": [
+    "celestial",
+    "navigation",
+    "correction",
+    "refraction"
+  ],
+  "author": "Giovani <giovanirubim.f@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanirubim/npm-celnav/issues"
+  },
+  "homepage": "https://github.com/giovanirubim/npm-celnav#readme",
+  "dependencies": {
+    "@giovanirubim/trig": "^1.0.0"
+  }
+}
